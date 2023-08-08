@@ -1,0 +1,11 @@
+
+sa ka fet 2 fason 
+premye fason
+/////////////////////////
+
+SHOW COLUMNS FROM peyi FROM mydb;
+
+////////////////////////
+2eme  fason
+
+SHOW COLUMNS FROM mydb.peyi;
